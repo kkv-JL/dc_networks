@@ -4,3 +4,4 @@
  -
  -
  - [Lb_05. VxLAN. L2 VNI](lb_05/)
+ - [Lb_06. VxLAN. L3 VNI](lb_06/)
