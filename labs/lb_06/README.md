@@ -126,7 +126,7 @@ VPCS> ping 192.168.1.2
 Связность есть:
 <img width="897" height="291" alt="image" src="https://github.com/user-attachments/assets/a74381b7-c545-4b98-b37f-088c9078e265" />
 
-Сначало ARP запрос, видим broadcast, VNI 1020
+Сначала ARP запрос, видим broadcast, VNI 1020
 
 <img width="907" height="717" alt="image" src="https://github.com/user-attachments/assets/881bce41-6c2b-4fc7-a0cd-a647d9acc198" />
 
