@@ -231,3 +231,21 @@ Total Mac Addresses for this criterion: 2
           Multicast Mac Address Table
 ------------------------------------------------------------------
 ```
+
+##### таблица MAC адресов LEAF_3
+```
+LEAF-SW3#show mac address-table
+          Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports      Moves   Last Move
+----    -----------       ----        -----      -----   ---------
+  10    0050.7966.6806    DYNAMIC     Vx1        1       0:02:27 ago
+  10    0050.7966.6808    DYNAMIC     Et1        1       0:02:28 ago
+  20    0050.7966.6807    DYNAMIC     Vx1        1       0:03:57 ago
+  20    0050.7966.6809    DYNAMIC     Et2        1       0:03:37 ago
+Total Mac Addresses for this criterion: 4
+
+          Multicast Mac Address Table
+------------------------------------------------------------------
+```
